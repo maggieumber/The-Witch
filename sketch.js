@@ -11,5 +11,5 @@ function setup() {
 }
 
 function draw() {
-	animation(TwirlDistort, 0, 0);
+	animation(TwirlDistort, 500, 500);
 }
